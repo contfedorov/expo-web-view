@@ -1,4 +1,4 @@
-import { ViewProps } from 'react-native';
+import { ViewProps } from 'deprecated-react-native-prop-types';
 import { requireNativeViewManager } from 'expo-modules-core';
 import * as React from 'react';
 
